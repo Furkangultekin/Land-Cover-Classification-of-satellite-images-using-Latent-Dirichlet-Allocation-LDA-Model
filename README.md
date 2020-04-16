@@ -1,0 +1,1 @@
+# Land-Cover-Classification-of-satellite-images-using-Latent-Dirichlet-Allocation-LDA-Model
